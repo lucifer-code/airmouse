@@ -14,4 +14,5 @@ This project is a Python-based gesture board that utilizes gestures to control v
 - **Gesture Recognition Library**: A library or algorithm used for recognizing gestures.
 - **User Interface Framework**: A framework used for creating the user interface.
 
-
+## Credits
+Vishal Aggarwal
