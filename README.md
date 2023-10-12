@@ -16,3 +16,4 @@ This project is a Python-based gesture board that utilizes gestures to control v
 
 ## Credits
 Vishal Aggarwal
+JCBOSE YMCA 2023
